@@ -1,6 +1,6 @@
 # simulation\_my\_protocal\_omnet
 
-!\[image](./simulation.gif)
+!\[image](https://github.com/xiaofei666aaa/simulation\_my\_protocal\_omnet/blob/main/simulation.gif)
 
 
 
